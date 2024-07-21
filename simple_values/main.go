@@ -1,0 +1,1 @@
+in thid video, he intoduces int, float, bool, string,
