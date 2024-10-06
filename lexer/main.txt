@@ -1,0 +1,2 @@
+// lexer means you are following the grammar specifications of the language
+//at the time of lexical, this lexer puts semicolon for us, we dont need to put it manually
